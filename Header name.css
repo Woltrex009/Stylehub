@@ -1,0 +1,19 @@
+/* Style the header */
+header {
+    background-color: #ffffff;
+    color: white;
+    padding: 20px;
+  }
+  
+  /* Style the header name */
+  .header-name {
+    font-size: 20px;
+    margin: 0;
+    text-align: justify;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px #444;
+    position:absolute ;
+    top: 0;
+    
+  }
+  
