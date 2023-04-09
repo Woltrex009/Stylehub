@@ -1,0 +1,16 @@
+.container{
+background-image: url();
+height: 50vh;
+background-attachment: scroll;
+background-repeat: unset;
+backface-visibility: visible;
+width: 50%;
+background-size: contain;
+background-position: center;
+background-color: black;
+
+}
+*{margin: 0;
+    padding: 0;
+
+}
